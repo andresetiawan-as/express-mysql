@@ -1,4 +1,4 @@
-# Express App
+# Express App API - Simple CRUD
 Build with ExpressJS, MySQL Sequelize
 
 ## Pre Install
