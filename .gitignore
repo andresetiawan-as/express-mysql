@@ -1,2 +1,8 @@
-/node_modules
-/handphones.sql
+handphones.sql
+
+package-lock.json
+
+node_modules
+.env
+
+.idea
